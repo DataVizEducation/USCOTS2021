@@ -1,0 +1,210 @@
+"ID","GENDER","MONTHS","RACETH","WEIGHT_KG","LENGTH_CM","HEAD_CM"
+62207,"Male",0,"Non-Hispanic Black",5.1,57.2,39.4
+62216,"Male",6,"Non-Hispanic White",7.8,70.5,44.4
+62238,"Female",4,"Non-Hispanic White",7.5,66.7,42.9
+62246,"Female",1,"Hispanic",4.9,55.5,39.5
+62358,"Female",3,"Hispanic",6.8,61,40.5
+62438,"Male",0,"Non-Hispanic Black",5.8,58.6,38.4
+62451,"Female",4,"Non-Hispanic White",8.6,65.7,42.4
+62490,"Male",6,"Non-Hispanic White",8.4,69.1,43.7
+62520,"Male",0,"Non-Hispanic White",5.3,59.9,39.5
+62540,"Female",3,"Non-Hispanic White",7.3,66.2,40.4
+62592,"Male",5,"Non-Hispanic White",7.4,67,42.8
+62647,"Male",0,"Hispanic",4.8,54,38.5
+62730,"Male",3,"Non-Hispanic White",7.8,63.2,42.6
+62741,"Female",3,"Non-Hispanic Black",6.6,62.7,41.9
+62743,"Male",5,"Non-Hispanic White",8.5,68.7,43.4
+62799,"Female",2,"Non-Hispanic Black",7,60.2,40.2
+62829,"Male",3,"Hispanic",7,63.1,42.4
+62857,"Female",5,"Non-Hispanic Black",6.7,62.3,42.6
+62862,"Male",2,"Non-Hispanic White",6.3,61.1,42.2
+62906,"Female",0,"Hispanic",4,53.8,38.3
+62961,"Male",6,"Non-Hispanic Black",8.5,70.6,44.8
+63158,"Female",5,"Non-Hispanic White",8.1,64.7,43.7
+63189,"Female",5,"Non-Hispanic Black",7,64.6,43.2
+63275,"Male",3,"Non-Hispanic White",6.6,62.1,41.6
+63444,"Female",2,"Non-Hispanic White",6.3,59.5,41.5
+63458,"Female",1,"Hispanic",5,57.1,38.5
+63494,"Female",2,"Non-Hispanic Black",5.9,60,40.8
+63505,"Female",1,"Non-Hispanic White",4.5,54.6,38
+63520,"Female",0,"Non-Hispanic White",4.8,53.9,38.1
+63536,"Male",0,"Non-Hispanic White",5.2,55.1,37.4
+63547,"Male",4,"Non-Hispanic Black",8.8,68.6,45.2
+63640,"Male",1,"Non-Hispanic White",6.4,59.7,40.3
+63745,"Male",4,"Hispanic",8.8,67,44.3
+63866,"Female",3,"Hispanic",5.2,58.6,38.4
+63987,"Male",1,"Non-Hispanic Black",5.4,54.3,38.4
+64039,"Female",4,"Non-Hispanic Black",6.9,61.9,40.1
+64080,"Male",3,"Hispanic",6.3,63,39.7
+64101,"Female",5,"Non-Hispanic Black",7.5,63.6,40.5
+64118,"Female",3,"Hispanic",5.3,58.4,41.5
+64190,"Male",0,"Hispanic",5.1,56.7,39.1
+64223,"Female",1,"Non-Hispanic White",4.8,56.8,35.8
+64232,"Male",6,"Non-Hispanic White",9.8,70.7,43.9
+64274,"Male",3,"Hispanic",8.7,69,43.8
+64289,"Female",3,"Non-Hispanic White",6.3,60.8,41.2
+64304,"Female",5,"Hispanic",7,63,43.9
+64384,"Male",5,"Non-Hispanic White",8.6,67.4,42.3
+64424,"Male",6,"Non-Hispanic White",9.1,70.5,44.7
+64426,"Female",1,"Non-Hispanic Black",4.3,54.3,37.2
+64441,"Male",1,"Non-Hispanic Black",5.4,58.2,38.4
+64448,"Male",0,"Non-Hispanic White",4.5,54.9,36.7
+64492,"Male",5,"Non-Hispanic White",6.3,59.4,42.1
+64556,"Female",4,"Hispanic",7.9,65.1,42.8
+64577,"Male",4,"Non-Hispanic White",8.2,68.4,48
+64605,"Female",6,"Non-Hispanic White",7.5,67.4,42.3
+64626,"Male",4,"Non-Hispanic White",7.4,67,41.4
+64630,"Male",3,"Non-Hispanic White",8.1,67.1,46.5
+64678,"Female",4,"Non-Hispanic Black",6.6,60.3,41.5
+64748,"Female",4,"Non-Hispanic Black",8.3,68.3,44.2
+64783,"Male",1,"Hispanic",6.9,62.3,42.1
+64834,"Male",3,"Hispanic",8.2,63.6,43.4
+64836,"Female",2,"Hispanic",6.6,61.7,39.5
+64845,"Male",3,"Hispanic",8.1,65.9,42.7
+64849,"Male",5,"Non-Hispanic White",7.9,66.6,43.9
+64896,"Female",0,"Non-Hispanic Black",4,50,37.3
+64925,"Female",4,"Hispanic",6.3,63.8,41.5
+64996,"Male",6,"Non-Hispanic White",9.3,71.8,45
+65053,"Female",4,"Hispanic",6.7,63.9,41.4
+65059,"Female",1,"Non-Hispanic Black",5.9,57.8,40.4
+65060,"Male",6,"Non-Hispanic Black",8.4,67.8,45.4
+65083,"Female",2,"Hispanic",5.8,59.4,40.5
+65159,"Female",4,"Non-Hispanic White",6.7,63.1,41.8
+65186,"Female",2,"Non-Hispanic Black",5.7,58.6,39.8
+65232,"Female",4,"Hispanic",7.9,66.6,46.7
+65324,"Female",3,"Hispanic",7,65.1,40.2
+65528,"Male",0,"Non-Hispanic Black",5.5,60.6,40.2
+65574,"Male",3,"Non-Hispanic White",8,65.9,43.1
+65616,"Male",3,"Non-Hispanic White",7,63.8,42.1
+65728,"Female",1,"Non-Hispanic Black",5.1,57.8,37.5
+65792,"Male",6,"Hispanic",8.2,67.8,44.3
+65842,"Male",3,"Hispanic",7.4,64.4,42.9
+65864,"Male",1,"Non-Hispanic White",5.6,57.3,39.5
+65887,"Male",1,"Hispanic",6.2,61.2,39.8
+65938,"Male",2,"Hispanic",7.8,64.2,42.8
+65960,"Female",4,"Non-Hispanic Black",5.9,60.8,40
+65961,"Female",0,"Non-Hispanic White",3.8,56,36.4
+66009,"Female",6,"Non-Hispanic Black",7.3,65.3,41.2
+66035,"Male",5,"Hispanic",8.4,67.9,43.9
+66046,"Female",0,"Hispanic",4.2,51.7,36.8
+66047,"Female",1,"Non-Hispanic Black",4.6,55.9,37.1
+66063,"Male",0,"Hispanic",4.6,55.6,39.3
+66130,"Female",1,"Non-Hispanic White",4.4,55.9,36.3
+66148,"Male",6,"Non-Hispanic Black",9.2,69.8,44.6
+66176,"Male",5,"Non-Hispanic White",7.2,66.4,44.8
+66225,"Female",4,"Non-Hispanic Black",7.1,64.8,42.3
+66231,"Male",4,"Hispanic",8.1,67.6,44.6
+66252,"Male",0,"Non-Hispanic White",4.6,54.9,39.2
+66380,"Female",0,"Non-Hispanic White",4.5,55.6,37.1
+66408,"Female",6,"Non-Hispanic Black",8,67.9,42.3
+66501,"Male",6,"Hispanic",7.5,64.8,44
+66529,"Male",0,"Non-Hispanic Black",3.9,50.6,34.6
+66540,"Female",4,"Non-Hispanic Black",7.9,64.9,44
+66606,"Female",5,"Non-Hispanic White",8.5,69.2,42.2
+66621,"Male",2,"Non-Hispanic White",7.4,61.1,41.8
+66780,"Male",2,"Hispanic",6.5,58.9,41.8
+66783,"Female",0,"Non-Hispanic White",5.5,60.1,39.2
+66831,"Male",0,"Hispanic",4,51.9,37.2
+67057,"Male",2,"Non-Hispanic Black",6.3,62.5,40.5
+67090,"Female",4,"Hispanic",6.1,65.9,40.6
+67139,"Female",1,"Hispanic",5.3,56.7,38.2
+67265,"Female",5,"Non-Hispanic Black",7.7,66.8,43.8
+67377,"Male",2,"Non-Hispanic White",5.3,60.3,42.2
+67437,"Female",2,"Non-Hispanic White",5.6,59.3,38.7
+67453,"Male",1,"Non-Hispanic White",6.9,60.2,40.1
+67533,"Male",4,"Hispanic",6.6,65.4,41.7
+67639,"Male",2,"Non-Hispanic Black",7.4,62,42
+67674,"Female",4,"Non-Hispanic Black",7.1,60.8,39.8
+67757,"Male",4,"Hispanic",7.9,64.7,41.4
+67810,"Male",6,"Hispanic",8.5,70.1,43.6
+67815,"Female",4,"Non-Hispanic White",7.5,65.8,41.8
+67830,"Male",5,"Hispanic",8.8,69.6,45
+67831,"Female",1,"Non-Hispanic White",7.2,60.8,40.2
+67909,"Male",6,"Hispanic",7.9,68.4,45.8
+68039,"Female",1,"Hispanic",5.1,58.5,36.7
+68082,"Male",0,"Non-Hispanic White",4.5,52.9,36.6
+68103,"Female",3,"Non-Hispanic Black",5.4,59.4,39.2
+68113,"Female",6,"Hispanic",7.1,65.9,43
+68165,"Female",5,"Hispanic",8.7,66.9,43.4
+68278,"Female",0,"Hispanic",3.9,48.3,35.6
+68308,"Male",2,"Non-Hispanic White",5.9,61.3,39.4
+68346,"Male",4,"Non-Hispanic Black",9.4,68.2,44.2
+68347,"Female",2,"Non-Hispanic White",5.1,58.2,38.5
+68358,"Female",5,"Hispanic",7.9,70.3,42.5
+68378,"Male",3,"Non-Hispanic White",6.8,62.2,40.1
+68396,"Female",6,"Hispanic",7.6,63.6,44.6
+68492,"Male",1,"Hispanic",6,59.7,40.5
+68552,"Female",2,"Non-Hispanic Black",6.9,62,41.5
+68615,"Male",0,"Hispanic",4.3,51.6,35.7
+68798,"Male",6,"Hispanic",7.8,68.3,45.9
+68805,"Male",4,"Non-Hispanic White",7.6,65.4,42.6
+68829,"Female",6,"Hispanic",8.7,68.7,42.8
+68943,"Female",2,"Non-Hispanic Black",4.8,57.6,37.7
+68969,"Male",1,"Hispanic",5.2,55.7,38.8
+69015,"Male",1,"Hispanic",6.1,59,39.7
+69028,"Male",5,"Hispanic",6.6,62.8,43.4
+69092,"Female",4,"Non-Hispanic White",7.3,67,41
+69214,"Female",1,"Non-Hispanic Black",5.3,59.8,37
+69232,"Male",6,"Hispanic",10.8,86.6,45.4
+69306,"Female",5,"Non-Hispanic Black",7.5,68.9,48
+69401,"Male",0,"Hispanic",5.6,57.6,38.8
+69432,"Male",5,"Non-Hispanic Black",7.4,67.2,42.8
+69469,"Male",2,"Hispanic",6.5,63.7,41.9
+69476,"Female",5,"Non-Hispanic Black",8.3,68.3,42.3
+69477,"Male",5,"Hispanic",6.6,63.7,40.4
+69481,"Female",2,"Hispanic",6.3,61.5,40.2
+69485,"Male",0,"Non-Hispanic White",4.8,56.1,39.3
+69490,"Male",3,"Non-Hispanic White",6.2,61.7,40.4
+69557,"Female",1,"Hispanic",6.1,58.3,38.4
+69589,"Male",2,"Non-Hispanic White",5.9,61.4,41.7
+69703,"Male",3,"Non-Hispanic Black",7.2,61.6,43
+69751,"Female",5,"Hispanic",6.8,65.3,42.7
+69769,"Female",4,"Non-Hispanic White",7.7,68.1,41.3
+69939,"Female",5,"Hispanic",8.2,68.2,44.7
+69980,"Female",2,"Hispanic",6,61.9,38.7
+70012,"Male",5,"Non-Hispanic Black",8.9,69.1,45.1
+70071,"Male",0,"Hispanic",6.6,58.5,40
+70116,"Male",4,"Non-Hispanic White",7.7,64.3,43
+70197,"Male",6,"Hispanic",8,69.2,43.2
+70250,"Female",5,"Hispanic",7.8,65,42.2
+70296,"Female",4,"Non-Hispanic White",8,66.8,43.5
+70305,"Male",2,"Non-Hispanic White",7.1,62.3,43.8
+70428,"Female",4,"Non-Hispanic White",6.3,61.3,41.2
+70434,"Female",2,"Non-Hispanic White",6.7,60,42.4
+70456,"Male",4,"Hispanic",7.9,68.8,42.9
+70469,"Female",4,"Hispanic",7.1,66,44.9
+70492,"Female",0,"Non-Hispanic Black",4.4,56.2,37.8
+70524,"Male",6,"Non-Hispanic White",9.8,70.9,48.4
+70569,"Male",0,"Non-Hispanic White",4.7,55,39.3
+70601,"Male",2,"Hispanic",6.1,61.7,40.2
+70632,"Female",0,"Non-Hispanic White",4.3,53.9,37.2
+70659,"Female",5,"Hispanic",9.4,71.1,44.3
+70683,"Female",1,"Hispanic",5.1,55.1,40.2
+70700,"Male",2,"Hispanic",7.6,63.4,43
+70818,"Male",1,"Hispanic",6,56.7,39.6
+70822,"Female",3,"Non-Hispanic Black",8.1,64.2,40.9
+70859,"Female",6,"Non-Hispanic Black",7.1,66.5,42.2
+70880,"Female",1,"Non-Hispanic White",5.4,54.2,38
+70934,"Male",4,"Non-Hispanic Black",8,65.5,44.3
+70944,"Female",0,"Hispanic",4.4,51,37.4
+71050,"Female",4,"Hispanic",6.8,60.9,41
+71148,"Male",0,"Non-Hispanic Black",3.6,50.3,36.8
+71165,"Female",4,"Non-Hispanic Black",6.7,62.6,41.2
+71210,"Male",0,"Non-Hispanic White",5.1,56.4,39.4
+71225,"Male",1,"Hispanic",4.8,55.4,39.6
+71276,"Female",5,"Non-Hispanic White",7.6,66.8,42.5
+71283,"Female",1,"Hispanic",4.9,55.4,38.1
+71317,"Male",1,"Non-Hispanic Black",4.8,57.7,40
+71402,"Male",3,"Non-Hispanic White",5.9,59.2,42.4
+71463,"Male",4,"Hispanic",8.1,65.2,43.6
+71550,"Female",3,"Non-Hispanic White",5.1,60,39.4
+71556,"Male",2,"Hispanic",6.6,61.7,41.4
+71590,"Male",3,"Hispanic",8.2,64.6,44.5
+71684,"Male",3,"Non-Hispanic White",8.6,68.1,44.5
+71743,"Female",4,"Hispanic",9,65.9,43.3
+71749,"Female",4,"Hispanic",8.2,64,38.2
+71754,"Male",0,"Non-Hispanic White",5.6,59.4,39.2
+71815,"Male",0,"Hispanic",4,54.6,38.4
+71834,"Female",5,"Non-Hispanic Black",8.1,69.4,43.1
+71892,"Male",3,"Non-Hispanic Black",7.7,67.4,42.6
+71910,"Female",5,"Non-Hispanic White",6.7,67.6,42.2
